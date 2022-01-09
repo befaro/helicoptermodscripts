@@ -1,0 +1,5 @@
+//<'HelicopterModScripts.pbo' properties via Mikero's dos tools, dll version 8.56>
+prefix=HelicopterModScripts;
+revision=3;
+//PboType=Arma Addon;
+//</properties>
